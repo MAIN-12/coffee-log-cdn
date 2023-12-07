@@ -1,0 +1,37 @@
+[
+	{
+		"manufacturer": "Sanrremo",
+		"part": "YO1A1A0A01101C",
+		"model": "YOU 1GR",
+		"type": "Espresso Machine",
+		"image": ""
+	},
+	{
+		"manufacturer": "Sanrremo",
+		"part": "ZO2C6C0F01000D",
+		"model": "Zoe 2GR",
+		"type": "Espresso Machine",
+		"image": ""
+	},
+	{
+		"manufacturer": "Sanrremo",
+		"part": "ZEU2112127T6",
+		"model": "Zoe 2GR",
+		"type": "Espresso Machine",
+		"image": ""
+	},
+    {
+		"manufacturer": "Sanrremo",
+		"part": "CR2E6H0O01141D",
+		"model": "Cafe Racer 2GR",
+		"type": "Espresso Machine",
+		"image": ""
+	},
+    {
+		"manufacturer": "Sanrremo",
+		"part": "SB2A6E0A00110U",
+		"model": "F18 SB 2GR",
+		"type": "Espresso Machine",
+		"image": ""
+	}
+]

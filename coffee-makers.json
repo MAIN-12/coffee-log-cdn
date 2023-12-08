@@ -1,58 +1,416 @@
-[
-	{
-		"manufacturer": "Sanrremo",
-		"part": "YO1A1A0A01101C",
-		"model": "YOU 1GR",
-		"type": "Espresso Machine",
-        "color":"black",
-		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-you.png"
-	},
-	{
-		"manufacturer": "Sanrremo",
-		"part": "ZO2C6C0F01000D",
-		"model": "Zoe 2GR",
-		"type": "Espresso Machine",
-        "color":"black",
-		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-zoe-competition-2gr.png"
-	},
-	{
-		"manufacturer": "Sanrremo",
-		"part": "ZEU2112127T6",
-		"model": "Zoe 2GR",
-		"type": "Espresso Machine",
-        "color":"black",
-		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-zoe-compact-2gr.png"
-	},
-    {
-		"manufacturer": "Sanrremo",
-		"part": "CR2E6H0O01141D",
-		"model": "Cafe Racer 2GR",
-		"type": "Espresso Machine",
-        "color":"black",
-		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cafe-racer-3gr-white-wood-slim.png"
-	},
-    {
-		"manufacturer": "Sanrremo",
-		"part": "",
-		"model": "Cafe Racer slim 2GR",
-		"type": "Espresso Machine",
-        "color":"white-wood",
-		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cafe-racer-3gr-white-wood-slim.png"
-	},
-    {
-		"manufacturer": "Sanrremo",
-		"part": "SB2A6E0A00110U",
-		"model": "F18 SB 2GR",
-		"type": "Espresso Machine",
-        "color":"black",
-		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-f18-sb-2gr-black.png"
-	}
-    {
-		"manufacturer": "Sanrremo",
-		"part": "",
-		"model": "F18 SB 2GR",
-		"type": "Espresso Machine",
-        "color":"black",
-		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-f18-sb-2gr-black.png"
-	}
-]
+{
+	"file_name": "test_20231208.json",
+	"timestamp": "2023-12-08T07:46:05.323Z",
+	"database": "https://docs.google.com/spreadsheets/d/1iAYJcdyV4PCV3j2RkbP2ALxlAcMk5QuMbRSQ1gQkAvA/edit#gid=1254042702",
+	"errors": "",
+	"status": "",
+	"data": [
+		{
+			"manufacturer": "Sanrremo",
+			"model": "YOU 1GR",
+			"partNumber": "YO1A1A0A01101C",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-you-black.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "SANREMO YOU INSTRUCTION BOOKLET Pdf Download | ManualsLib",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "YOU 1GR",
+			"partNumber": "YO1A1A0A01101C",
+			"type": "Espresso Machine",
+			"color": "white",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-you-white.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "SANREMO YOU INSTRUCTION BOOKLET Pdf Download | ManualsLib",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "YOU 1GR",
+			"partNumber": "YO1A1A0A01101C",
+			"type": "Espresso Machine",
+			"color": "white wood",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-you-white.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "YOU 1GR",
+			"partNumber": "YO1A1A0A01101C",
+			"type": "Espresso Machine",
+			"color": "custom ",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-you-black.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Zoe 2GR",
+			"partNumber": "ZO2C6C0F01000D",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-zoe-competition-2gr.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Zoe 2GR",
+			"partNumber": "ZO2C6C0F01000D",
+			"type": "Espresso Machine",
+			"color": "costom",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-zoe-competition-2gr.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Zoe 2GR",
+			"partNumber": "ZEU2112127T6",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-zoe-compact-2gr.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Zoe 2GR",
+			"partNumber": "ZEU2112127T6",
+			"type": "Espresso Machine",
+			"color": "custom",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-zoe-compact-2gr.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cafe Racer 2GR",
+			"partNumber": "CR2E6H0O01141D",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cafe-racer-3gr-white-wood-slim.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cafe Racer slim 2GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "white-wood",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cafe-racer-3gr-white-wood-slim.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "F18 SB 2GR",
+			"partNumber": "SB2A6E0A00110U",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-f18-sb-2gr-black.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "F18 SB 2GR",
+			"partNumber": "SB2A6E0A00110U",
+			"type": "Espresso Machine",
+			"color": "black red",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-f18-sb-2gr-red-black.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "F18 SB 3GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-f18-sb-3gr.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "F18 MB 2GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "F18 MB 3GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-f18-mb-3gr.png",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Opera 3GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "Black",
+			"image": "",
+			"catalog": "GENERAL_USA_BOOK_2022_02_24.pdf (sanremous.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 A 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-black.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 A 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "white",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-white.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 A 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "red",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-red.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 A 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "blue",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-blue.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 A 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "green",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-green.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 A 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "yellow",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-yellow.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 A 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "pink",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-pink.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 A 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "silver",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-silver.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 B 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-black.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 B 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "white",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-white.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 B 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "red",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-red.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 B 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "blue",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-blue.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 B 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "green",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-green.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 B 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "yellow",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-yellow.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 B 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "pink",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-pink.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "Sanrremo",
+			"model": "Cube 1 B 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "silver",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cube-silver.png",
+			"catalog": "CUBE-Technical-Catalogue-March-2021-1.pdf (sanremouk.com)",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "la marzoco",
+			"model": "Linea EE 2GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "black red",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/la_marzocco_linea_ee_2gr.png",
+			"catalog": "",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "la marzoco",
+			"model": "Linea mini 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/marzoco-linea-mini-black.png",
+			"catalog": "",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "la marzoco",
+			"model": "Linea mini 1GR",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "white",
+			"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machinesmarzoco-linea-mini-black-white.png",
+			"catalog": "",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "la marzoco",
+			"model": "",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "",
+			"catalog": "",
+			"userManual": "",
+			"techManual": ""
+		},
+		{
+			"manufacturer": "la marzoco",
+			"model": "",
+			"partNumber": "",
+			"type": "Espresso Machine",
+			"color": "black",
+			"image": "",
+			"catalog": "",
+			"userManual": "",
+			"techManual": ""
+		}
+	]
+}

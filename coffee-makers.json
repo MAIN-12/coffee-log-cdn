@@ -4,34 +4,55 @@
 		"part": "YO1A1A0A01101C",
 		"model": "YOU 1GR",
 		"type": "Espresso Machine",
-		"image": ""
+        "color":"black",
+		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-you.png"
 	},
 	{
 		"manufacturer": "Sanrremo",
 		"part": "ZO2C6C0F01000D",
 		"model": "Zoe 2GR",
 		"type": "Espresso Machine",
-		"image": ""
+        "color":"black",
+		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-zoe-competition-2gr.png"
 	},
 	{
 		"manufacturer": "Sanrremo",
 		"part": "ZEU2112127T6",
 		"model": "Zoe 2GR",
 		"type": "Espresso Machine",
-		"image": ""
+        "color":"black",
+		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-zoe-compact-2gr.png"
 	},
     {
 		"manufacturer": "Sanrremo",
 		"part": "CR2E6H0O01141D",
 		"model": "Cafe Racer 2GR",
 		"type": "Espresso Machine",
-		"image": ""
+        "color":"black",
+		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cafe-racer-3gr-white-wood-slim.png"
+	},
+    {
+		"manufacturer": "Sanrremo",
+		"part": "",
+		"model": "Cafe Racer slim 2GR",
+		"type": "Espresso Machine",
+        "color":"white-wood",
+		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-cafe-racer-3gr-white-wood-slim.png"
 	},
     {
 		"manufacturer": "Sanrremo",
 		"part": "SB2A6E0A00110U",
 		"model": "F18 SB 2GR",
 		"type": "Espresso Machine",
-		"image": ""
+        "color":"black",
+		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-f18-sb-2gr-black.png"
+	}
+    {
+		"manufacturer": "Sanrremo",
+		"part": "",
+		"model": "F18 SB 2GR",
+		"type": "Espresso Machine",
+        "color":"black",
+		"image": "https://cdn-espresso-log.main12.com/assets/pictures/espresso-machines/sanremo-f18-sb-2gr-black.png"
 	}
 ]
